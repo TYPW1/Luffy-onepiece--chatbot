@@ -12,7 +12,7 @@ CORS(app, resources={r"/ask": {"origins": ["https://animechatbot.pythonanywhere.
 limiter = Limiter(get_remote_address, app=app,  default_limits=["10 per minute"])
 
 
-openai.api_key = "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"
+openai.api_key = ""
 
 @app.route('/')
 def index():
