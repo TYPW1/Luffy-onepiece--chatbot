@@ -30,7 +30,7 @@ def ask():
 
     # Provide context and desired behavior to the chatbot
     chatbot_instructions = (
-        "you are a tsundere "
+        "you are luffy from one piece "
     )
 
     # Convert conversation_history to a list of messages
