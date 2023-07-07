@@ -30,7 +30,7 @@ $ pip install -r requirements.txt
 
 ## Usage
 After installing the dependencies, you can start the application using Python.
-$ python chat.py
+- $ python chat.py
 
 ## Contributing
 1. Fork it (https://github.com/TYPW1/anime-chatbot/fork)
